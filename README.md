@@ -8,7 +8,9 @@ post.pyを使うために必要なライブラリです
 3. このリポジトリをクローン<br>
 公式のクローンの仕方:<https://docs.github.com/ja/repositories/creating-and-managing-repositories/cloning-a-repository>
 
-4. `python post.pyがあるディレクトリ "text （anything）" [-user username]`と入力すれば通知が届くよ！<br>
+4. 動かすためには、ポッドのurlが必要です！
+それは開発者に聞いてください。参照ファイルを差し上げます.
+5. `python post.pyがあるディレクトリ "text （anything）" [-user username]`と入力すれば通知が届くよ！<br>
 つまりこれをバッチファイルとかの最後に組み込めば通知が来るよ
 <br>
 <br>
